@@ -2,9 +2,8 @@ import plotly.express as px
 import plotly.data as pldata
 df = pldata.wind(return_type='pandas')
 
-print(df.head(30))
+print(df.head(10))
 print(df.tail(10))
-print(df.info())
 
 # Extract numeric part and convert to float
 df['strength'] = df['strength'].str.extract(r'^(\d+)').astype(float)
