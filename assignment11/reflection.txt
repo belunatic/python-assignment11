@@ -1,10 +1,6 @@
 Reflect on the differences between static and interactive visualizations.
-- Static visualizations are for non-interactive, they are high customizable, perfect for trends and reports and building custom charts type
-- Interactive visualizations enable features like zooming, panning, selecting, hoovertips, they are more interactive, great for dashboards or web app
+Static visualizations are non‑interactive and highly customizable, making them ideal for showing trends, generating reports, and building precise custom chart types Interactive visualizations, on the other hand, support zooming, panning, selecting, and hover‑tips, offering a more dynamic experience that’s perfect for dashboards or web applications.
 Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
-- The advantages of using in real-time dashboards are:
-    - Feature like filters can assisting on remove the unnecessary data and focus on what you want
-    - Feature like clickable data point, manage to give more information on the data presented.
-    - Exploration of data, the user can interact with the data as they wish.
+Real‑time dashboards shine because they let users actively shape the data they see. Filters help remove noise and highlight only the information that matters, clickable data points reveal deeper details on demand, and full data exploration lets users interact with charts freely to uncover patterns, trends, or insights in a more intuitive way.
 Explain how interactive tools like Plotly can improve data communication in professional settings.
-- Plotly is interactive, exploratory and user-driven. These feature create conversation and allow further exploration into a data points, hence it ability to be interactive.
+Interactive tools like Plotly improve data communication in professional settings by making information easier to explore, understand, and discuss. Instead of presenting static charts, Plotly lets users zoom into trends, hover to reveal details, and click through data points to uncover deeper insights. This level of interaction encourages curiosity, supports clearer decision‑making, and helps teams engage with data more naturally during meetings, dashboards, and collaborative analysis.
